@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Conejo Valley Family Counseling — Homepage Clone
 
 A pixel-faithful clone of the [Conejo Valley Family Counseling](https://www.conejovalleycounseling.com/home)
@@ -83,3 +84,7 @@ All imagery was pulled directly from the live Squarespace CDN and stored in
   — change `--color-accent`, `--color-light-accent`, `--color-cream` to re-skin the whole site.
 - Links point to the original site's slugs so the structure maps 1:1.
 - Heading hierarchy is semantic (`h1` → `h4`) and images carry descriptive `alt` text.
+=======
+# Clinical
+it  is my 4th one with vibe coding skills ad some manual implementation
+>>>>>>> 952dea46a5f2e35d625fec14b69a4ef3fb97720d
